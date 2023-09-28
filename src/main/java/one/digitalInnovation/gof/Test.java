@@ -3,6 +3,7 @@ package one.digitalInnovation.gof;
 import sigleton.SingletonEager;
 import sigleton.SingletonLazy;
 import sigleton.SingletonLazyHolder;
+import strategy.*;
 
 import java.lang.System;
 
@@ -39,12 +40,11 @@ public class Test {
         robo.mover();
         robo.mover();
 
-        // Facade
+        Facade
 
         Facade facade = new Facade();
         facade.migrarCliente("Luiz", "14801788");
     }
 
 
-    }
 }

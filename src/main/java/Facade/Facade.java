@@ -1,2 +1,4 @@
-package Facade;public class Facade {
+package Facade;
+
+public class Facade {
 }

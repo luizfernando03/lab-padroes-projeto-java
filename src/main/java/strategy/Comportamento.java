@@ -1,2 +1,5 @@
-package strategy;public interface Comportamento {
+package strategy;
+
+public interface Comportamento {
+    void mover();
 }

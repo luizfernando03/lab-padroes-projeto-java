@@ -1,4 +1,4 @@
-package one.digitalInnovation.gof;
+package sigleton;
 
 /**
  * Singleton "preguicoso".
@@ -10,7 +10,7 @@ public class SingletonLazy {
 
     private static SingletonLazy instancia;
 
-    public SingletonLazy() {
+    SingletonLazy() {
         super();
     }
 

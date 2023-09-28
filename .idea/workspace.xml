@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="368c83a5-3db2-47a3-9772-ba421fa4c68b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/SingletonLazy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/SingletonLazy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/SingletonLazyHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/SingletonLazyHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,26 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="one.digitalInnovation.gof.Test" />
+      <module name="lab-padroes-projeto-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sigleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

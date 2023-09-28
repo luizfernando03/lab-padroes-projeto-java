@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="368c83a5-3db2-47a3-9772-ba421fa4c68b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/one/digitalInnovation/gof/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Comportamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/Comportamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoAgressivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoAgressivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoDefensivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoNormal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/ComportamentoNormal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Robo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy/Robo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
